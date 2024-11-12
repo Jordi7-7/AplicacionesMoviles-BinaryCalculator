@@ -43,4 +43,4 @@ La interfaz de la calculadora binaria se muestra de la siguiente manera:
 
 ## Autor ✒️
 
-- **[Tu Nombre](https://github.com/tu_usuario)**
+- **[Jordi Cahuasqui](https://github.com/Jordi7-7)**
